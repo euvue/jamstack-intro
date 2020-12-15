@@ -1,0 +1,5 @@
+
+    const cmd = require("/Users/eu/Documents/GitHub/jamstack-intro/sections/contact/node_modules/gatsby/dist/commands/develop-process.js");
+    const args = {"_":["develop"],"verbose":false,"no-color":false,"no-colors":false,"noColors":false,"noColor":false,"json":false,"H":"localhost","host":"localhost","p":"8000","port":59452,"c":"","cert-file":"","certFile":"","k":"","key-file":"","keyFile":"","ca-file":"","caFile":"","graphql-tracing":false,"graphqlTracing":false,"$0":"gatsby","directory":"/Users/eu/Documents/GitHub/jamstack-intro/sections/contact","browserslist":[">0.25%","not dead"],"sitePackageJson":{"name":"contact","version":"1.0.0","main":"index.js","license":"MIT","dependencies":{"gatsby":"^2.28.2","react":"^17.0.1","react-dom":"^17.0.1"},"scripts":{"develop":"gatsby develop"}},"report":{"errorMap":{}},"useYarn":true,"proxyPort":8000,"ssl":null,"debugInfo":null};
+    cmd(args);
+  
